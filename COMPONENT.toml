@@ -3,7 +3,7 @@ name = "SigmaOS-ldap-client"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ldap-client component"
+description = "LDAP Client"
 upstream = []
 
 [contract]
